@@ -1,3 +1,10 @@
+#!/usr/bin/env python3
+"""evelandy/W.G.
+Nov. 3, 2018 7:31pm
+Remove-Headers-from-CSV-Files
+Python36-32
+Removes Headers from .CSV files
+"""
 import csv
 import os
 
